@@ -1,5 +1,5 @@
 {
-    "name": "pno/simple-session",
+    "name": "pno/session",
     "type": "library",
     "description": "Simple HTTP Requests Adapted from Symfony HttpFoundation Component - I use for Wordpress",
     "keywords": ["http","request", "wordpress"],
