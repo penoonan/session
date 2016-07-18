@@ -2,7 +2,7 @@
     "name": "pno/session",
     "type": "library",
     "description": "Simple HTTP Requests Adapted from Symfony HttpFoundation Component - I use for Wordpress",
-    "keywords": ["http","session", "wordpress"],
+    "keywords": ["http","session", "wordpress", "symfony"],
     "homepage": "https://github.com/penoonan",
     "license": "MIT",
     "authors": [
